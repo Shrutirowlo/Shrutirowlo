@@ -60,9 +60,8 @@ Git • GitHub • Docker • VS Code • Linux
 
 ## 📫 Connect
 
-- Portfolio *(add your portfolio URL)*
-- LinkedIn *(add your LinkedIn)*
-- Email *(add your email if you want)*
+- LinkedIn *https://www.linkedin.com/in/shruti-rowlo/*
+- Email *shrutirowlo2006@gmail.com*
 
 ---
 
